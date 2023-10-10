@@ -1,0 +1,82 @@
+[
+    {
+      "id":1,
+      "title": "Tenis Globe",
+      "description": "Tenis de excelente calidad, resistentes y duraderos para montar skateboarding",
+      "price": 286000,
+      "thumbnail": "imagen1.jpg",
+      "code": "TENIS001",
+      "size": "US 10",
+      "stock": 100
+    },
+    {
+      "id":2,
+      "title": "Tenis DC-Shoes",
+      "description": "Tenis resistentes ideales para practicar skateboarding.",
+      "price": 310000,
+      "thumbnail": "imagen2.jpg",
+      "code": "TENIS002",
+      "size": "US 8",
+      "stock": 50
+    },
+    {
+      "id":3,
+      "title": "Tenis Lakai",
+      "description": "Tenis elegantes y cómodos para uso diario.",
+      "price": 360000,
+      "thumbnail": "imagen3.jpg",
+      "code": "TENIS003",
+      "size": "US 9",
+      "stock": 75
+    },
+    {
+      "id":4,
+      "title": "Tenis DVS",
+      "description": "Tenis resistentes ideales para practicar skateboarding.",
+      "price": 299000,
+      "thumbnail": "imagen4.jpg",
+      "code": "TENIS004",
+      "size": "US 9.5",
+      "stock": 60
+    },
+    {
+      "id":5,
+      "title": "Tenis Nike",
+      "description": "Tenis casuales y cómodos para uso diario.",
+      "price": 344000,
+      "thumbnail": "imagen5.jpg",
+      "code": "TENIS005",
+      "size": "US 7.5",
+      "stock": 40
+    },
+    {
+      "id":6,
+      "title": "Tenis etnies",
+      "description": "Tenis resistentes ideales para practicar skateboarding.",
+      "price": 368000,
+      "thumbnail": "imagen6.jpg",
+      "code": "TENIS006",
+      "size": "US 9.5",
+      "stock": 90
+    },
+    {
+      "id":7,
+      "title": "Tenis New Balance",
+      "description": "Tenis casuales y cómodos para uso diario.",
+      "price": 434000,
+      "thumbnail": "imagen7.jpg",
+      "code": "TENIS007",
+      "size": "US 8",
+      "stock": 30
+    },
+    {
+      "id":8,
+      "title": "Tenis vans",
+      "description": "Tenis con un diseño clásico y retro para amantes de la moda vintage.",
+      "price": 289000,
+      "thumbnail": "imagen8.jpg",
+      "code": "TENIS008",
+      "size": "US 9",
+      "stock": 55
+    }
+]
